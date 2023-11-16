@@ -1,0 +1,12 @@
+analy: padsfs
+animal: {"a":1,"b":2}
+
+Search_Data:
+  search_test_001:
+    input_text: "应用"
+
+  search_test_002:
+    input_text: "1234"
+
+  search_test_003:
+    input_text: "<html>"
